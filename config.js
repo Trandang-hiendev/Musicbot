@@ -1,19 +1,19 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["809077122072838176", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'prefix /',
   commandsDir: './commands',
-  language: "en",
-  embedColor: "00fbff",
-  errorLog: "",
+  language: "vi",
+  embedColor: "#ffd7d5",
+  errorLog: "1202612834685689927",
 
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://www.facebook.com/hine.Wns/ ",
   },
 
   voteManager: {
